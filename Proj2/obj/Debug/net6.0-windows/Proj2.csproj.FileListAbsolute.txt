@@ -1,0 +1,114 @@
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.exe
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.deps.json
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.runtimeconfig.json
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.pdb
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.cache
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.lref
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.g.resources
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfo.cs
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.dll
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\refint\Proj2.dll
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.pdb
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.genruntimeconfig.cache
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\ref\Proj2.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Xaml.dll
+C:\Users\admin\source\repos\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.dll
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CopyComplete
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.AssemblyReference.cache
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.cache
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.lref
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.exe
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.deps.json
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.runtimeconfig.json
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.pdb
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Xaml.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.g.resources
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfoInputs.cache
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfo.cs
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CopyComplete
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\refint\Proj2.dll
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.pdb
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.genruntimeconfig.cache
+C:\Users\Benjamin Sinzore\Desktop\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\ref\Proj2.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.exe
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.deps.json
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.runtimeconfig.json
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Proj2.pdb
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Foundation.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.UI.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.Xaml.dll
+D:\Proj2\Proj2\Proj2\bin\Debug\net6.0-windows\Uno.dll
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.AssemblyReference.cache
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\App.g.cs
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.cache
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2_MarkupCompile.lref
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.g.resources
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfoInputs.cache
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.AssemblyInfo.cs
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CoreCompileInputs.cache
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.csproj.CopyComplete
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.dll
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\refint\Proj2.dll
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.pdb
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\Proj2.genruntimeconfig.cache
+D:\Proj2\Proj2\Proj2\obj\Debug\net6.0-windows\ref\Proj2.dll
